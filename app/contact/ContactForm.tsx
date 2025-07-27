@@ -36,7 +36,7 @@ export default function ContactForm() {
       const response = await fetch('/api/contact', {
         method: 'POST',
         headers: {
-          'Content-Type': 'srajan2004patel@gmail.com',
+          'Content-Type': 'application/x-www-form-urlencoded',
         },
         body: new URLSearchParams({
           name: formData.name,
