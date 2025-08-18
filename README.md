@@ -7,8 +7,6 @@ A sleek and modern personal portfolio website built using **Next.js 14 (App Rout
 ## 🖥️ Live Demo
 
 **[Deploy on Vercel](https://my-portfolio-git-main-srajan-patels-projects-129ab5c7.vercel.app)**  
-> *You can deploy this project instantly on Vercel by importing your GitHub repo.*
-
 ---
 
 ## 📌 Table of Contents
