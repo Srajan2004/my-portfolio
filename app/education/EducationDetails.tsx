@@ -33,7 +33,7 @@ export default function EducationDetails() {
                       <i className="ri-calendar-line w-5 h-5 flex items-center justify-center text-blue-600 mr-2"></i>
                       <span className="text-sm font-medium text-gray-500">Duration</span>
                     </div>
-                    <p className="text-lg font-semibold text-gray-900">Nov 2021 – Present</p>
+                    <p className="text-lg font-semibold text-gray-900">Nov 2021 – June 2025</p>
                   </div>
                   
                   <div className="bg-white p-4 rounded-lg shadow-sm">
